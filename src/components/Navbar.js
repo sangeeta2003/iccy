@@ -3,6 +3,7 @@ export default function Navbar() {
     return (
       <div className="bg-white-800">
        <div>
+        {/* bgc */}
     
           <nav className="bg-white p-4 ">
             <div className="container mx-auto flex justify-between items-center ">
